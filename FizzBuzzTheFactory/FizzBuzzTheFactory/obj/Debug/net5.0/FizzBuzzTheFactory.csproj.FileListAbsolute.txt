@@ -1,0 +1,37 @@
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzTheFactory.deps.json
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzTheFactory.runtimeconfig.json
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzTheFactory.runtimeconfig.dev.json
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzTheFactory.dll
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/ref/FizzBuzzTheFactory.dll
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzTheFactory.pdb
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.csproj.AssemblyReference.cache
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.AssemblyInfoInputs.cache
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.AssemblyInfo.cs
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.csproj.CoreCompileInputs.cache
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.dll
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/ref/FizzBuzzTheFactory.dll
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.pdb
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.genruntimeconfig.cache
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzLibrary.dll
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/bin/Debug/net5.0/FizzBuzzLibrary.pdb
+/Users/cjcs1/Projects/FizzBuzzTheFactory/FizzBuzzTheFactory/obj/Debug/net5.0/FizzBuzzTheFactory.csproj.CopyComplete
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzTheFactory.exe
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzTheFactory.deps.json
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzTheFactory.runtimeconfig.json
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzTheFactory.runtimeconfig.dev.json
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzTheFactory.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\ref\FizzBuzzTheFactory.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzTheFactory.pdb
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzLibrary.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\bin\Debug\net5.0\FizzBuzzLibrary.pdb
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.csproj.AssemblyReference.cache
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.AssemblyInfoInputs.cache
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.AssemblyInfo.cs
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.csproj.CoreCompileInputs.cache
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.csproj.CopyComplete
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\ref\FizzBuzzTheFactory.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.pdb
+C:\Users\vsalgado\Documents\cursos\Dev ops\FizzBuzzTheFactory\FizzBuzzTheFactory\obj\Debug\net5.0\FizzBuzzTheFactory.genruntimeconfig.cache

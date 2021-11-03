@@ -1,0 +1,12 @@
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\HtmlFormartter.deps.json
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\HtmlFormartter.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\ref\HtmlFormartter.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\bin\Debug\net5.0\HtmlFormartter.pdb
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.csproj.AssemblyReference.cache
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.AssemblyInfoInputs.cache
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.AssemblyInfo.cs
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.csproj.CoreCompileInputs.cache
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\ref\HtmlFormartter.dll
+C:\Users\vsalgado\Documents\cursos\Dev ops\htmlFormartter\HtmlFormartter\HtmlFormartter\obj\Debug\net5.0\HtmlFormartter.pdb
